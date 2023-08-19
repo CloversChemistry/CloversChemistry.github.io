@@ -18,3 +18,9 @@ header:
 #excerpt: "About me, about this website, as well as my resume and cv"
 
 ---
+## Website Goal
+Welcome. add text here
+
+
+## About Me
+My name is Alexie Clover
