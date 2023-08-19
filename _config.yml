@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob Sindorf: Electronic CV"
+title                    : "Alexie Clover Chemistry "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jacob Sindorf"
+name                     : "Alexie Clover"
 description              : "This website contains an interactive and visual way to view my academic and professional career"
 url                      : # the base hostname & protocol for your site e.g. "https://jsindorf.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
