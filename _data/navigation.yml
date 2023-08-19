@@ -6,7 +6,7 @@ main:
     #url: https://jsindorf.github.io/_pages/research/research.html
     url: /research/ 
   - title: "Teaching"
-    url: /teach_exp/
+    url: /teaching/
   - title: "Tutoring"
     url: /tutoring/
   # - title: "Sitemap"
