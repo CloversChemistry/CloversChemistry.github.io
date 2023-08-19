@@ -37,7 +37,7 @@ text
 ## Description
 text
 
-## Paper
+## Thesis
 text
 
 <br><br>
