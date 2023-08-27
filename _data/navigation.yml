@@ -9,5 +9,7 @@ main:
     url: /teaching/
   - title: "Tutoring"
     url: /tutoring/
+  - title: "NMR Projects"
+    url: /nmrproj/
   # - title: "Sitemap"
   #   url: /sitemap/
