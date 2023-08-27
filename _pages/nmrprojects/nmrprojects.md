@@ -40,7 +40,7 @@ feature_row2:
     
 ---
 ## Introduction
-This page details my NMR Projects. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
+This page details some of my NMR Projects from courses i've taken. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
 
 ## CLOVER Peptide
 {% include feature_row id="feature_row" type="left" %}
