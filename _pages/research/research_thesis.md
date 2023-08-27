@@ -20,20 +20,6 @@ intro:
   - excerpt: "some info here"   
    
 ---
-
-## Table of Contents
-- [About](/research_thesis/#about)<br>
-- [Keywords](/research_thesis/#keywords)  <br> 
-- [Description](/research_thesis/#description) <br>
-- [Thesis](/research_thesis/#thesis)  <br>
-
-
-## About
-text
-
-## Keywords
-text
-
 ## Description
 text
 
@@ -41,5 +27,4 @@ text
 text
 
 <br><br>
-[Return to top](/research_thesis/#table-of-contents)
 [Research Home](/research/)
