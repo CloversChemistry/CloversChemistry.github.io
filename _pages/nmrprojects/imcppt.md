@@ -1,5 +1,5 @@
 ---
-title: "Research Paper"
+title: "cyclohexanol"
 layout: splash
 permalink: /nmrimcppt/
 author_profile: true
@@ -9,7 +9,7 @@ toc_sticky: true
 header:
   overlay_color: "#333"
   overlay_filter: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))"
-  overlay_image: /chem1.jpg
+  overlay_image: /pages/nmrprojects/imcpic.png
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -21,7 +21,7 @@ intro:
    
 ---
 ## Description
-text
+A complex NMR analysis of (1S,2R,4S)-2-isopropyl-4-methylcyclohexanol using the Mnova software.
 
 ## Power Point
 text
