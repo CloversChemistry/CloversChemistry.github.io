@@ -1,5 +1,5 @@
 ---
-title: "Research Paper"
+title: "CLOVER amino acid chain"
 layout: splash
 permalink: /nmrcloverppt/
 author_profile: true
