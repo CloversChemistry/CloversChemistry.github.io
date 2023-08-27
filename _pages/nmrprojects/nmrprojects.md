@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /_pages/nmrprojects/imcpic.jpg
     alt: "placeholder image 2"
     #title: "Small molecule NMR with detailed analysis using NMR, IR, and MS."
-    excerpt: 'Small molecule NMR with detailed analysis using NMR, IR, and MS.c. <br><br>'
+    excerpt: 'Small molecule NMR with detailed analysis using NMR, IR, and MS. <br><br>'
     url: /nmrimcppt/
     btn_label: "Power Point"
     btn_class: "btn--primary"
