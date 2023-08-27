@@ -21,7 +21,8 @@ intro:
    
 ---
 ## Description
-A complex NMR analysis of (1S,2R,4S)-2-isopropyl-4-methylcyclohexanol using the Mnova software.
+A complex NMR analysis of (1S,2R,4S)-2-isopropyl-4-methylcyclohexanol using the Mnova software. 
+This includes analysis of NMR, IR, and MS.
 
 ## Power Point
 text
