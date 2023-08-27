@@ -19,17 +19,17 @@ header:
 intro: 
   - excerpt: "This page details my NMR projects. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /chem1.jpg
+  - image_path: /pages/nmrprojects/cloverpic.png
     alt: "placeholder image 2"
-    #title: "Poster descriptions goes here"
-    excerpt: 'clover amino desc. here <br><br>'
+    #title: "An NMR approach to solving peptide chains"
+    excerpt: 'clover amino acid chain. here <br><br>'
     url: /nmrcloverppt/
     btn_label: "Power Point"
     btn_class: "btn--primary"
 feature_row2:    
-  - image_path: /chem1.jpg
+  - image_path: /pages/nmrprojects/imcpic.png
     alt: "placeholder image 2"
-    #title: "thesis stuff"
+    #title: "Small molecule NMR with detailed analysis using NMR, IR, and MS."
     excerpt: 'proj desc. <br><br>'
     url: /nmrimcppt/
     btn_label: "Power Point"
