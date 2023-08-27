@@ -10,7 +10,7 @@ toc_sticky: true
 header:
   overlay_color: "#333"
   overlay_filter: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))"
-  overlay_image: /chem1.jpg
+  overlay_image: /IMG-9095 new.jpg
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
