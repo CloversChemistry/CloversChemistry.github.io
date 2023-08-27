@@ -21,19 +21,6 @@ intro:
    
 ---
 
-## Table of Contents
-- [About](/research_paper/#about)<br>
-- [Keywords](/research_paper/#keywords)  <br> 
-- [Description](/research_paper/#description) <br>
-- [Paper](/research_paper/#paper)  <br>
-
-
-## About
-text
-
-## Keywords
-text
-
 ## Description
 text
 
@@ -41,5 +28,4 @@ text
 text
 
 <br><br>
-[Return to top](/research_paper/#table-of-contents)
 [Research Home](/research/)
