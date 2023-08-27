@@ -22,9 +22,7 @@ feature_row:
   - image_path: /chem1.jpg
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
-    excerpt: 'clover amino desc. here <br><br>
-    
-    [Return to top](/nmrproj/#introduction)'
+    excerpt: 'clover amino desc. here <br><br>'
     url: /nmrcloverppt/
     btn_label: "Power Point"
     btn_class: "btn--primary"
@@ -32,8 +30,7 @@ feature_row2:
   - image_path: /chem1.jpg
     alt: "placeholder image 2"
     #title: "thesis stuff"
-    excerpt: 'proj desc. <br><br>
-    [Return to top](/nmrproj/#introduction)'
+    excerpt: 'proj desc. <br><br>'
     url: /nmrimcppt/
     btn_label: "Power Point"
     btn_class: "btn--primary"
