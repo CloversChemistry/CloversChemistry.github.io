@@ -19,7 +19,7 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /poster conf.pdf
+  - image_path: /poster.jpg
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'This Poster decribes how Allysilanes can be regioselectively transformed into the corresponding 3-silylfluorohydrin in good yield using a sequence of epoxidation followed by treatment with HF-Et3N with or without isolation of the intermediate epoxide. <br><br>
