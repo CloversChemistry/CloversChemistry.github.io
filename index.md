@@ -27,4 +27,4 @@ My resume and CV can be found at the bottom of this page.
 
 
 ## About Me
-My name is Alexie Clover, I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. 
+My name is Alexie Clover, I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. Right after I finished my undergrad I moved to Bellingham WA where I worked under Dr. O'Neil who was my mentor and friend. I just recently finished my master's in organic chemistry and completed my thesis where I worked with organosilicon chemistry mostly involving the conversion of allylsilanes to more complex useful intermediates containing fluorine. I thoroughly enjoyed my time in Bellingham, I would often venture up to Vancouver Canada to snowboard with friends at Whistler. Following graduation, I moved to Reno NV where I am currently living and enjoying the area.
