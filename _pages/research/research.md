@@ -19,12 +19,12 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /chem1.jpg
+  - image_path: /Poster conf.jpg
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
-    excerpt: 'Poster description. <br><br>
-    **Project Type**: Individual or collaborative/team <br> 
-    **Keywords**: chemistry, more chemistry, molecules, moles <br><br>
+    excerpt: 'This Poster decribes how Allysilanes can be regioselectively transformed into the corresponding 3-silylfluorohydrin in good yield using a sequence of epoxidation followed by treatment with HF-Et3N with or without isolation of the intermediate epoxide. <br><br>
+    **Project Type**: collaborative/team <br> 
+    **Keywords**: Organic Chemistry, Organosilicon, Allylsilane <br><br>
     [Return to top](/research/#introduction)'
     url: /research_poster/
     btn_label: "Poster"
@@ -32,25 +32,26 @@ feature_row:
 feature_row2:    
   - image_path: /chem1.jpg
     alt: "placeholder image 2"
+    #title: "paper stuff"
+    excerpt: 'paper desc. <br><br>
+    **Project Type**: collaborative/team <br>
+    **Keywords**: chem, chem, more chem <br><br>
+    [Return to top](/research/#introduction)'
+    url: /research_paper/
+    btn_label: "Paper"
+    btn_class: "btn--primary"   
+feature_row3:    
+  - image_path: /chem1.jpg
+    alt: "placeholder image 2"
     #title: "thesis stuff"
     excerpt: 'thesis desc. <br><br>
-    **Project Type**: Collaborative/Team <br>
+    **Project Type**: Individual <br>
     **Keywords**: chem, more chem, stuff <br><br>
     [Return to top](/research/#introduction)'
     url: /research_thesis/
     btn_label: "Thesis"
     btn_class: "btn--primary"
-feature_row3:    
-  - image_path: /chem1.jpg
-    alt: "placeholder image 2"
-    #title: "paper stuff"
-    excerpt: 'paper desc. <br><br>
-    **Project Type**: Individual <br>
-    **Keywords**: chem, chem, more chem <br><br>
-    [Return to top](/research/#introduction)'
-    url: /research_paper/
-    btn_label: "Paper"
-    btn_class: "btn--primary"
+
     
 
     
@@ -63,12 +64,13 @@ text
 
 ## Table of Contents
 - [Poster Title](/research/#poster-title) <br> 
+- [Paper Title](/research/#paper-title) <br>
 - [Thesis Title](/research/#thesis-title) <br> 
-- [Paper Title](/research/#paper-title) <br> 
+
 
 ## Poster Title
 {% include feature_row id="feature_row" type="left" %}
-## Thesis Title
-{% include feature_row id="feature_row2" type="left" %}
 ## Paper Title
 {% include feature_row id="feature_row3" type="left" %}
+## Thesis Title
+{% include feature_row id="feature_row2" type="left" %}
