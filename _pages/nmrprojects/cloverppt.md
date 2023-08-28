@@ -10,6 +10,7 @@ header:
   overlay_color: "#333"
   overlay_filter: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))"
   overlay_image: /chem1.jpg
+  excerpt: "(NAU)"
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
