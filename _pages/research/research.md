@@ -19,34 +19,31 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /Poster conf.jpg
+  - image_path: /Poster conf.pdf
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'This Poster decribes how Allysilanes can be regioselectively transformed into the corresponding 3-silylfluorohydrin in good yield using a sequence of epoxidation followed by treatment with HF-Et3N with or without isolation of the intermediate epoxide. <br><br>
     **Project Type**: collaborative/team <br> 
-    **Keywords**: Organic Chemistry, Organosilicon, Allylsilane <br><br>
     [Return to top](/research/#introduction)'
     url: /research_poster/
     btn_label: "Poster"
     btn_class: "btn--primary"
 feature_row2:    
-  - image_path: /chem1.jpg
+  - image_path: /paper picture.jpg
     alt: "placeholder image 2"
-    #title: "paper stuff"
-    excerpt: 'paper desc. <br><br>
-    **Project Type**: collaborative/team <br>
-    **Keywords**: chem, chem, more chem <br><br>
+    #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
+    excerpt: 'This paper describes in detail more of the transformation of allylsilanes. <br><br>
+    **Project Type**: collaborative/team <br><br>
     [Return to top](/research/#introduction)'
     url: /research_paper/
     btn_label: "Paper"
     btn_class: "btn--primary"   
 feature_row3:    
-  - image_path: /chem1.jpg
+  - image_path: /Hz picture.jpg
     alt: "placeholder image 2"
-    #title: "thesis stuff"
-    excerpt: 'thesis desc. <br><br>
+    #title: "My Thesis"
+    excerpt: 'New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions. <br><br>
     **Project Type**: Individual <br>
-    **Keywords**: chem, more chem, stuff <br><br>
     [Return to top](/research/#introduction)'
     url: /research_thesis/
     btn_label: "Thesis"
