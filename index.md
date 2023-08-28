@@ -23,7 +23,7 @@ The goal of this website is to create an interactive and visual way to view part
 
 Click through the links provided at the top of the page to explore my graduate research, teaching experience, and some graduate and undergraduate projects.
 
-My resume and CV can be found at the bottom of this page.
+My CV can be found at the bottom of this page.
 
 
 ## About Me
