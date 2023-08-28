@@ -32,7 +32,7 @@ feature_row2:
   - image_path: /paper picture.jpg
     alt: "placeholder image 2"
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
-    excerpt: 'This paper describes in detail more of the transformation of allylsilanes. <br><br>
+    excerpt: 'This paper describes in detail the transformation of allylsilanes into the corresponding fluorohydrins. <br><br>
     **Project Type**: collaborative/team <br><br>
     [Return to top](/research/#introduction)'
     url: /research_paper/
@@ -65,9 +65,9 @@ text
 - [Thesis Title](/research/#thesis-title) <br> 
 
 
-## Poster Title
+## ACS Poster 
 {% include feature_row id="feature_row" type="left" %}
-## Paper Title
+## Research Paper
 {% include feature_row id="feature_row2" type="left" %}
-## Thesis Title
+## My Thesis 
 {% include feature_row id="feature_row3" type="left" %}
