@@ -25,7 +25,7 @@ intro:
 text
 
 ## Paper
-
+<object data="{{ site.url }}{{ site.baseurl }}/regioselective-fluorohydrin-synthesis-from-allylsilanes.pdf" width="1000" height="1000" type='application/pdf'></object>
 regioselective-fluorohydrin-synthesis-from-allylsilanes.pdf
 
 
