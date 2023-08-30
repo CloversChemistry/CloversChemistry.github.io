@@ -24,7 +24,8 @@ intro:
 text
 
 ## Thesis
-text
+
+New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addi.pdf
 
 <br><br>
 [Research Home](/research/)
