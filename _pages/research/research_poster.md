@@ -24,7 +24,7 @@ intro:
 This was the Poster Adam (undergrad) and I made to present at the ACS conference in indianapolis. The work shown below shows a general concept of how we initially discovered the fluorination of epoxysilanes along with the work we had been conducting.
 
 ## Poster
-text
+<object data="{{ site.url }}{{ site.baseurl }}/Poster conf.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br><br>
 
