@@ -25,7 +25,9 @@ intro:
 text
 
 ## Paper
-text
+
+regioselective-fluorohydrin-synthesis-from-allylsilanes.pdf
+
 
 <br><br>
 [Research Home](/research/)
