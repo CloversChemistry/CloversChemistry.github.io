@@ -29,11 +29,11 @@ intro:
 This page presents my current teaching expereince both in graduate and undergraduate school. 
 
 ## Courses
-### Teaching Assistant
-# CHEM 161/162: General Chemisrty
+## Teaching Assistant
+### CHEM 161/162: General Chemisrty
 Assisted students with both hands on experiments and online projects.
-
-
+### CHEM 464/465: Physical/Inorganic Chemistry
+An integrated approach to inorganic synthesis and physical measurement. 
 
 
 <br><br>
