@@ -28,7 +28,7 @@ The IUPAC name is (2S,5S,8S,11S,14S,17R)-17-amino-11-(3-aminopropyl)-5-(2-carbox
 Clocking in at a molecular weight of 732.90
 
 ## Power Point
-<object data="{{ site.url }}{{ site.baseurl }}/CLOVERppt.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pages/nmrprojects/CLOVERppt.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br><br>
 [NMR Home](/nmrproj/)
