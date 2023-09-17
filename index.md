@@ -21,7 +21,7 @@ header:
 ## This webiste is still under construction. I appologize for any inconvenience.
 
 ## Website Goal
-The goal of this website is to create an interactive and visual way to view parts of my academic and professional career.  This highlights projects and skills I learned during my journey that may otherwise have been left in the past. This website is a living document that will be forever growing, just like me.
+This website was created as an interactive and visual way to view parts of my academic and professional career. This highlights projects and skills I learned through my journey that may have otherwise been left behind. This website will be updated as I conitunue down my scientific career.
 
 Click through the links provided at the top of the page to explore my graduate research, teaching experience, and some graduate and undergraduate projects.
 
@@ -29,7 +29,7 @@ My CV can be found at the bottom of this page.
 
 
 ## About Me
-My name is Alexie Clover, I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. Right after I finished my undergrad I moved to Bellingham WA where I worked under Dr. O'Neil who was my mentor and friend. I just recently finished my master's in organic chemistry and completed my thesis where I worked with organosilicon chemistry mostly involving the conversion of allylsilanes to more complex useful intermediates containing fluorine. I thoroughly enjoyed my time in Bellingham, I would often venture up to Vancouver Canada to snowboard with friends at Whistler. Following graduation, I moved to Reno NV where I am currently living and enjoying the area. <br>
+My name is Alexie Clover, I recently finished my master's in organic chemistry at WWU in Bellingham WA where I worked under Dr. O'Neil who was my mentor. My thesis where I worked with organosilicon chemistry mostly involving the conversion of allylsilanes to more complex useful intermediates containing fluorine. I thoroughly enjoyed my time in Bellingham, I would often venture up to Vancouver Canada to snowboard with friends at Whistler. Following graduation, I moved to Reno NV where I am currently living and enjoying the area. <br> I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. Right after I finished my undergrad I moved to
 
 ## CV
 <object data="{{ site.url }}{{ site.baseurl }}/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
