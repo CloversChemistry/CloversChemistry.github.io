@@ -25,7 +25,7 @@ A complex NMR analysis of (1S,2R,4S)-2-isopropyl-4-methylcyclohexanol using the 
 This includes analysis of NMR, IR, and MS.
 
 ## Power Point
-<object data="{{ site.url }}{{ site.baseurl }}/imcppt.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pages/nmrprojects/imcppt.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br><br>
 [NMR Home](/nmrproj/)
