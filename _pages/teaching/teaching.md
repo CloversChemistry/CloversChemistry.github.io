@@ -14,7 +14,6 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "(other)"
 
 intro: 
   - excerpt: "some info here"   
@@ -27,10 +26,11 @@ intro:
 
 
 ## Description
-text
+This page presents my current teaching expereince both in graduate and undergraduate school. 
 
 ## Courses
-text
+### Teaching Assistant
+
 
 <br><br>
 [Return to top](/teaching/#table-of-contents)
