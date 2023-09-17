@@ -22,13 +22,12 @@ intro:
 
 ## Table of Contents
 - [Description](/teaching/#description)<br>
-- [Courses](/teaching/#courses)<br>
+- [Teaching Assistant](/teaching/#teaching-assistant)<br>
 
 
 ## Description
 This page presents my current teaching expereince both in graduate and undergraduate school. 
 
-## Courses
 ## Teaching Assistant
 ### CHEM 161/162: General Chemisrty
 Assisted students with both hands on experiments and online projects.
