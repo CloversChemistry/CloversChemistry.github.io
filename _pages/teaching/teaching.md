@@ -33,8 +33,9 @@ This page presents my current teaching expereince both in graduate and undergrad
 ### CHEM 161/162: General Chemisrty
 Assisted students with both hands on experiments and online projects.
 ### CHEM 464/465: Physical/Inorganic Chemistry
-An integrated approach to inorganic synthesis and physical measurement. 
-
+An integrated approach to inorganic synthesis and physical measurement. Helped studemts with in lab synthesis and purification of inorganic compounds along with performing online computational studies.
+### CHEM 454: Organic Spectroscopy
+Identification of organic compounds by spectroscopic methods: infrared, nuclear magnetic resonance, ultraviolet and mass spectroscopy. Laboratory work includes application of spectroscopy in identifying unknowns with confirmation by chemical methods. 
 
 <br><br>
 [Return to top](/teaching/#table-of-contents)
