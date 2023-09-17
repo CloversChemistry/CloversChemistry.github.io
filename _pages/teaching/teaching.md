@@ -30,6 +30,10 @@ This page presents my current teaching expereince both in graduate and undergrad
 
 ## Courses
 ### Teaching Assistant
+# CHEM 161/162: General Chemisrty
+Assisted students with both hands on experiments and online projects.
+
+
 
 
 <br><br>
