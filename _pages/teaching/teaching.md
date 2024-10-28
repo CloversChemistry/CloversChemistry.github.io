@@ -22,13 +22,20 @@ intro:
 
 ## Table of Contents
 - [Description](/teaching/#description)<br>
-- [Teaching Assistant](/teaching/#teaching-assistant)<br>
+- [Supplemental Instructor](/teaching/#supplemental-instructor-(NAU))<br>
+- [Teaching Assistant](/teaching/#teaching-assistant-(WWU))<br>
 
 
 ## Description
 This page presents my current teaching expereince both in graduate and undergraduate school. 
 
-## Teaching Assistant
+## Supplemental Instructor (NAU)
+### General Chemistry 1
+Assisted students with homework and made practice exams to help facilitate learning.
+### Organic Chemistry 2
+Created practice exams and problems on the fly to help students learn the subject matter. I taught this course for 2 years.
+
+## Teaching Assistant (WWU)
 ### CHEM 161/162: General Chemisrty
 Assisted students with both hands on experiments and online projects.
 ### CHEM 464/465: Physical/Inorganic Chemistry
