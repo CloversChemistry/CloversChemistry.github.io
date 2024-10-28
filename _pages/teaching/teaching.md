@@ -31,17 +31,17 @@ This page presents my current teaching expereince both in graduate and undergrad
 
 ## Supplemental Instructor (NAU)
 ### General Chemistry 1
-Assisted students with homework and made practice exams to help facilitate learning.
+Assisted students with homework and made practice exams to help facilitate learning. 6 months.
 ### Organic Chemistry 2
-Created practice exams and problems on the fly to help students learn the subject matter. I taught this course for 2 years.
+Created practice exams and problems on the fly to help students learn the subject matter. 2 years.
 
 ## Teaching Assistant (WWU)
 ### CHEM 161/162: General Chemisrty
-Assisted students with both hands on experiments and online projects.
+Assisted students with both hands on experiments and online projects. 6 months.
 ### CHEM 464/465: Physical/Inorganic Chemistry
-An integrated approach to inorganic synthesis and physical measurement. Helped studemts with in lab synthesis and purification of inorganic compounds along with performing online computational studies.
+An integrated approach to inorganic synthesis and physical measurement. Helped studemts with in lab synthesis and purification of inorganic compounds along with performing online computational studies. 1 year.
 ### CHEM 454: Organic Spectroscopy
-Identification of organic compounds by spectroscopic methods: infrared, nuclear magnetic resonance, ultraviolet and mass spectroscopy. Laboratory work includes application of spectroscopy in identifying unknowns with confirmation by chemical methods. 
+Identification of organic compounds by spectroscopic methods: infrared, nuclear magnetic resonance, ultraviolet and mass spectroscopy. Laboratory work includes application of spectroscopy in identifying unknowns with confirmation by chemical methods. 6 month.
 
 <br><br>
 [Return to top](/teaching/#table-of-contents)
