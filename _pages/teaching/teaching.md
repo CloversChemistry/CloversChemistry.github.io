@@ -22,8 +22,8 @@ intro:
 
 ## Table of Contents
 - [Description](/teaching/#description)<br>
-- [Supplemental Instructor](/teaching/#supplemental-instructor-(NAU))<br>
-- [Teaching Assistant](/teaching/#teaching-assistant-(WWU))<br>
+- [Supplemental Instructor (NAU)](/teaching/#supplemental-instructor-(NAU))<br>
+- [Teaching Assistant (WWU)](/teaching/#teaching-assistant-(WWU))<br>
 
 
 ## Description
