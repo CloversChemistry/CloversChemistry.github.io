@@ -10,7 +10,7 @@ toc_sticky: true
 header:
   overlay_color: "#333"
   overlay_filter: "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))"
-  overlay_image: /cactus.jpg
+  overlay_image: /IMG-9095 new.jpg
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -18,36 +18,16 @@ header:
 #excerpt: "About me, about this website, as well as my resume and cv"
 
 ---
+## This webiste is still under construction. I appologize for any inconvenience.
+
 ## Website Goal
-The goal of this website is to create an interactive and visual way to view parts of my academic and professional career. It highlights projects and skills I learned during my journey that may otherwise be left in the past, including things from course projects, internships, and previous jobs. This website is a living document that will be forever growing, just like me. <br><br>
-Click through the links provided at the top of the page to explore my graduate research, teaching experience and some graduate and undergraduate projects. 
-<br><br>
-My resume and CV can be found at the bottom of this page. 
+This website was created as an interactive and visual way to view parts of my academic and professional career. This highlights projects and skills I learned through my journey that may have otherwise been left behind. This website will be updated as I continue my scientific career.
+ 
+My CV can be found at the bottom of this page.
+
 
 ## About Me
-My name is Jacob Sindorf, and I am a current PhD Candidate in Systems Engineering at Arizona State University. A true Arizona native, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation (and perhaps beyond). Staying active through sports in high school kept me busy, but I always had a strong background in academia through AP courses and the guidance of many amazing teachers along the way. <br>
-After high school I found myself yearning to move as far away from home as possible. Ambitious and determined, I landed a daunting 150 miles away, in Tucson, Arizona. The sunny skies and dusty roads of Tucson presented a major fork in my career: engineering or medical school. Confident, I already knew my decision and went straight down the middle of both of them with biomedical engineering. Four years pass, and the opportunity to further my education finally gave me a way to move even farther from home. This time a full 50 miles to be exact. <br>
-The final semester at UofA was cut short due to COVID, and my first year at ASU was almost entirely through a computer screen. Adversity, however, always provides a way to grow. I took the time to focus on becoming an independent scholar, an individual whose skill set makes them an irreplaceable member of any team. After a year hunched in front of a computer screen, I now walk the home stretch of my PhD with a Master’s degree in hand. With 2 out of 3 degrees completed and 0 out of 3 graduation ceremonies attended, I have to make the most out of my final chance to don the cap and gown. <br> <br>
-
-
-
-
-## Education
-**Graduate (Fall 2020 - Present)**: <br>
- Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br><br>
- Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br>
-
-*ITServe Alliance Stem Scholarship Recipient (2022)*<br><br>
-**Undergraduate (Fall 2016 - Spring 2020)**: <br>
- University of Arizona, Bachelors of Biomedical Engineering, minor of Mechanical Engineering  <br>(GPA: 3.917)
-
-
-<br><br>
-
-## Resume
-Updated: Dec. 2022
-<object data="{{ site.url }}{{ site.baseurl }}/resume_sindorf_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
+My name is Alexie Clover, I recently finished my master's in organic chemistry at WWU in Bellingham WA where I worked under Dr. O'Neil who was my mentor. My thesis where I worked with organosilicon chemistry mostly involving the conversion of allylsilanes to more complex useful intermediates containing fluorine. I thoroughly enjoyed my time in Bellingham, I would often venture up to Vancouver Canada to snowboard with friends at Whistler. Following graduation, I moved to Reno NV where I am currently living and enjoying the area. <br> I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. Right after I finished my undergrad I moved to
 
 ## CV
-Updated: Jan. 2023
-<object data="{{ site.url }}{{ site.baseurl }}/CV_sindorf_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
