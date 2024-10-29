@@ -21,9 +21,7 @@ header:
 ## This webiste is still under construction. I appologize for any inconvenience.
 
 ## Website Goal
-This website was created as an interactive and visual way to view parts of my academic and professional career. This highlights projects and skills I learned through my journey that may have otherwise been left behind. This website will be updated as I conitunue down my scientific career.
-
-Click through the links provided at the top of the page to explore my graduate research, teaching experience, and some graduate and undergraduate projects.
+This website was created as an interactive and visual way to view parts of my academic and professional career. This highlights projects and skills I learned through my journey that may have otherwise been left behind. This website will be updated as I continue my scientific career.
 
 My CV can be found at the bottom of this page.
 
