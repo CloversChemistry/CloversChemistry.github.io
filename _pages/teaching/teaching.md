@@ -30,6 +30,7 @@ intro:
 This page presents my current teaching expereince both in graduate and undergraduate school. 
 
 ## Supplemental Instructor (NAU)
+
 ### General Chemistry 1
 Assisted students with homework and made practice exams to help facilitate learning. 6 months.
 ### Organic Chemistry 2
