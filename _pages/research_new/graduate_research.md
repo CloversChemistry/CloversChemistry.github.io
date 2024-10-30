@@ -22,7 +22,7 @@ intro:
 ---
 
 ## Description
-Grad Project stuff here and publications etc
+Grad stuff
 
 ## TEST
 
