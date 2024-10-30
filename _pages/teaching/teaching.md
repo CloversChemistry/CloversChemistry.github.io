@@ -22,21 +22,13 @@ intro:
 
 ## Table of Contents
 - [Description](/teaching/#description)<br>
-- [Supplemental Instructor (NAU)](/teaching/#supplemental-instructor-(NAU))<br>
-- [Teaching Assistant (WWU)](/teaching/#teaching-assistant-(WWU))<br>
-
+- [Teaching Assistant (WWU)](/teaching/#wwu-teaching-assistant)<br>
+- [Supplemental Instructor (NAU)](/teaching/#nau-supplemental-instructor)<br>
 
 ## Description
 This page presents my current teaching expereince both in graduate and undergraduate school. 
 
-## Supplemental Instructor (NAU)
-
-### General Chemistry 1
-Assisted students with homework and made practice exams to help facilitate learning. 6 months.
-### Organic Chemistry 2
-Created practice exams and problems on the fly to help students learn the subject matter. 2 years.
-
-## Teaching Assistant (WWU)
+## WWU Teaching Assistant
 ### CHEM 161/162: General Chemisrty
 Assisted students with both hands on experiments and online projects. 6 months.
 ### CHEM 464/465: Physical/Inorganic Chemistry
@@ -44,5 +36,12 @@ An integrated approach to inorganic synthesis and physical measurement. Helped s
 ### CHEM 454: Organic Spectroscopy
 Identification of organic compounds by spectroscopic methods: infrared, nuclear magnetic resonance, ultraviolet and mass spectroscopy. Laboratory work includes application of spectroscopy in identifying unknowns with confirmation by chemical methods. 6 month.
 
+## NAU Supplemental Instructor
+
+### General Chemistry 1
+Assisted students with homework and made practice exams to help facilitate learning. 6 months.
+### Organic Chemistry 2
+Created practice exams and problems on the fly to help students learn the subject matter. 2 years.
 <br><br>
+
 [Return to top](/teaching/#table-of-contents)
