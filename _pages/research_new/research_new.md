@@ -24,7 +24,7 @@ feature_row:
     #title: "Poster descriptions goes here"
     excerpt: 'Job'
     url: /job_research/
-    btn_label: "Poster"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
   - image_path: /paper picture.jpg
@@ -32,7 +32,7 @@ feature_row2:
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
     excerpt: 'WWU Grad'
     url: /graduate_research/
-    btn_label: "Paper"
+    btn_label: "Explore"
     btn_class: "btn--primary"   
 feature_row3:    
   - image_path: /Hz picture.jpg
@@ -40,7 +40,7 @@ feature_row3:
     #title: "My Thesis"
     excerpt: 'Under Grad NAU'
     url: /undergrad_research/
-    btn_label: "Thesis"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 
     
