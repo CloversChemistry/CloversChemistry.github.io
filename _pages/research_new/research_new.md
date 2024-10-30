@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'Job'
-    url: /research_poster/
+    url: /job_research/
     btn_label: "Poster"
     btn_class: "btn--primary"
 feature_row2:    
@@ -31,7 +31,7 @@ feature_row2:
     alt: "placeholder image 2"
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
     excerpt: 'WWU Grad'
-    url: /research_paper/
+    url: /graduate_research/
     btn_label: "Paper"
     btn_class: "btn--primary"   
 feature_row3:    
