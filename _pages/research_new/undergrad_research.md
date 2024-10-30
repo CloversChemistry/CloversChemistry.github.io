@@ -27,4 +27,4 @@ NMR Project stuff here
 ## TEST
 
 <br><br>
-[Research Home](/research/)
+[Research Home](/research_new/)
