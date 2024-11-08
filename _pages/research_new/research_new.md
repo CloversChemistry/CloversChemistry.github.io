@@ -54,5 +54,5 @@ This page has links to my current employment (LGC), graduate research at Western
 {% include feature_row id="feature_row" type="left" %}
 ## Graduate Research (WWU)
 {% include feature_row id="feature_row2" type="left" %}
-## Undergraduate Research (NAU)
+## Undergraduate Projects (NAU)
 {% include feature_row id="feature_row3" type="left" %}
