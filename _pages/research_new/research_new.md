@@ -48,14 +48,11 @@ feature_row3:
     
 ---
 ## Introduction
-This page details my job + graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
+This page has links to my current employment (LGC), graduate research at Western Washington University, and undergraduate projects. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
 
-## Research Summary
-text
-
-## Job 
+## LGC (AxoLabs)
 {% include feature_row id="feature_row" type="left" %}
-## GRAD
+## Graduate Research (WWU)
 {% include feature_row id="feature_row2" type="left" %}
-## UNDERGRAD
+## Undergraduate Research (NAU)
 {% include feature_row id="feature_row3" type="left" %}
