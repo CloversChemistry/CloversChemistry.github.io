@@ -60,9 +60,9 @@ This page details my graduate research and project experience at Western Washing
 text
 
 ## Table of Contents
-- [ACS Poster](/research new/#acs-poster) <br> 
-- [Research Paper](/research new/#research-paper) <br>
-- [My Thesis](/research new/#my-thesis) <br> 
+- [ACS Poster](/research_new/#acs-poster) <br> 
+- [Research Paper](/research_new/#research-paper) <br>
+- [My Thesis](/research_new/#my-thesis) <br> 
 
 
 ## ACS Poster 
