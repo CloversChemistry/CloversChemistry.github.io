@@ -19,7 +19,7 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /poster.jpg
+  - image_path: /LGC.pdf
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'Job'
