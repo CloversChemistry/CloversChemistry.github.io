@@ -27,7 +27,7 @@ My CV can be found at the bottom of this page.
 
 
 ## About Me
-My name is Alexie Clover, I recently finished my master's in organic chemistry at WWU in Bellingham WA where I worked under Dr. O'Neil who was my mentor. My thesis where I worked with organosilicon chemistry mostly involving the conversion of allylsilanes to more complex useful intermediates containing fluorine. I thoroughly enjoyed my time in Bellingham, I would often venture up to Vancouver Canada to snowboard with friends at Whistler. Following graduation, I moved to Reno NV where I am currently living and enjoying the area. <br> I attended NAU in Flagstaff AZ where I double majored in chemistry and biology. Right after I finished my undergrad I moved to
+My name is Alexie Clover, I am currently a PD chemist at LGC Axolabs in the North Bay Area where I currently work on the synthesis, purification, and analysis of oligonucleotides. Through my job I work on both client projects and internal projects. My bakcground is in organic chemistry and specifically organosilane chemistry where I attained my MS from Western Washington University. 
 
 ## CV
 <object data="{{ site.url }}{{ site.baseurl }}/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
