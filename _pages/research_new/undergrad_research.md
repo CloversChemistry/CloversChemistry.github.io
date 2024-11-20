@@ -3,7 +3,7 @@ title: "NMR Projects"
 layout: splash
 author_profile: false
 
-permalink: /research new.md/
+permalink: /undergraduate_research.md/
 toc: true
 toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
