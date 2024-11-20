@@ -3,7 +3,7 @@ title: "Graduate Research and Projects"
 layout: splash
 author_profile: false
 
-permalink: /research/
+permalink: /research new/
 toc: true
 toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
@@ -60,9 +60,9 @@ This page details my graduate research and project experience at Western Washing
 text
 
 ## Table of Contents
-- [ACS Poster](/research/#acs-poster) <br> 
-- [Research Paper](/research/#research-paper) <br>
-- [My Thesis](/research/#my-thesis) <br> 
+- [ACS Poster](/research new/#acs-poster) <br> 
+- [Research Paper](/research new/#research-paper) <br>
+- [My Thesis](/research new/#my-thesis) <br> 
 
 
 ## ACS Poster 
