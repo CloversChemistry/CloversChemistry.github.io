@@ -19,7 +19,7 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: LGC.pdf
+  - image_path: /LGC.pdf
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'Job'
@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
-  - image_path: WWU.pdf
+  - image_path: /WWU.pdf
     alt: "placeholder image 2"
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
     excerpt: 'WWU Grad'
@@ -35,7 +35,7 @@ feature_row2:
     btn_label: "Explore"
     btn_class: "btn--primary"   
 feature_row3:    
-  - image_path: NAU.pdf
+  - image_path: /NAU.pdf
     alt: "placeholder image 2"
     #title: "My Thesis"
     excerpt: 'Under Grad NAU'
