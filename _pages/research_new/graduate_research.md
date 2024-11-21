@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Paper"
     btn_class: "btn--primary"   
 feature_row3:    
-  - image_path: /.jpg
+  - image_path: /HZPIC.jpg
     alt: "placeholder image 2"
     #title: "My Thesis"
     excerpt: 'New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions. <br><br>
