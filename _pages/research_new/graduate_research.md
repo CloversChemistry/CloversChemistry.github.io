@@ -19,7 +19,7 @@ header:
 intro: 
   - excerpt: "This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
-  - image_path: /comp picture.pdf
+  - image_path: /COMPPIC.png
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
     excerpt: 'This Poster decribes how Allysilanes can be regioselectively transformed into the corresponding 3-silylfluorohydrin in good yield using a sequence of epoxidation followed by treatment with HF-Et3N with or without isolation of the intermediate epoxide. <br><br>
@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Poster"
     btn_class: "btn--primary"
 feature_row2:    
-  - image_path: /paper picture1.pdf
+  - image_path: /COVERPIC.png
     alt: "placeholder image 2"
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
     excerpt: 'This paper describes in detail the transformation of allylsilanes into the corresponding fluorohydrins. <br><br>
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Paper"
     btn_class: "btn--primary"   
 feature_row3:    
-  - image_path: /coverthesispic.pdf
+  - image_path: /.jpg
     alt: "placeholder image 2"
     #title: "My Thesis"
     excerpt: 'New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions. <br><br>
