@@ -22,7 +22,7 @@ feature_row:
   - image_path: /LGC.png
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
-    excerpt: 'Currently employed at LGC as a PD Chemist II.'
+    excerpt: 'Here you will find some details from my time at LGC.'
     url: /job_research/
     btn_label: "Explore"
     btn_class: "btn--primary"
