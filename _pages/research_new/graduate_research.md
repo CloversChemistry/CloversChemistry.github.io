@@ -24,7 +24,7 @@ feature_row:
     #title: "Poster descriptions goes here"
     excerpt: 'This Poster decribes how Allysilanes can be regioselectively transformed into the corresponding 3-silylfluorohydrin in good yield using a sequence of epoxidation followed by treatment with HF-Et3N with or without isolation of the intermediate epoxide. <br><br>
     **Project Type**: Collaborative/Team <br> 
-    [Return to top](/research_new/#introduction)'
+    [Return to top](/graduate_research/#introduction)'
     url: /research_poster/
     btn_label: "Poster"
     btn_class: "btn--primary"
@@ -34,7 +34,7 @@ feature_row2:
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
     excerpt: 'This paper describes in detail the transformation of allylsilanes into the corresponding fluorohydrins. <br><br>
     **Project Type**: Collaborative/Team <br><br>
-    [Return to top](/research_new/#introduction)'
+    [Return to top](/graduate_research/#introduction)'
     url: /research_paper/
     btn_label: "Paper"
     btn_class: "btn--primary"   
@@ -44,7 +44,7 @@ feature_row3:
     #title: "My Thesis"
     excerpt: 'New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions. <br><br>
     **Project Type**: Individual <br>
-    [Return to top](/research_new/#introduction)'
+    [Return to top](/graduate_research/#introduction)'
     url: /research_thesis/
     btn_label: "Thesis"
     btn_class: "btn--primary"
