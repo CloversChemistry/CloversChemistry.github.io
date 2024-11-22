@@ -1,5 +1,5 @@
 ---
-title: "Job"
+title: "LGC Axolabs"
 layout: splash
 permalink: /job_research/
 author_profile: true
