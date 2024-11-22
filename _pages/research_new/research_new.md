@@ -22,7 +22,7 @@ feature_row:
   - image_path: /LGC.png
     alt: "placeholder image 2"
     #title: "Poster descriptions goes here"
-    excerpt: 'Job'
+    excerpt: 'Currently employed at LGC as a PD Chemist II.'
     url: /job_research/
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /WWU.png
     alt: "placeholder image 2"
     #title: "Regioselective Fluorohydrin Synthesis from Allylsilanes"
-    excerpt: 'WWU Grad'
+    excerpt: 'Here you will find my MS ACS poster, paper, and thesis from WWU.'
     url: /graduate_research/
     btn_label: "Explore"
     btn_class: "btn--primary"   
@@ -38,7 +38,7 @@ feature_row3:
   - image_path: /NAU.png
     alt: "placeholder image 2"
     #title: "My Thesis"
-    excerpt: 'Under Grad NAU'
+    excerpt: 'Here you will find my undergraduate projects from NAU.'
     url: /undergrad_research/
     btn_label: "Explore"
     btn_class: "btn--primary"
