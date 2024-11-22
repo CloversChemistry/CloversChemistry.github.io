@@ -21,7 +21,7 @@ intro:
    
 ---
 ## Description
-This work was presented at the 2023 ACS conference in indianapolis. The work shows the discovery of the fluorination of epoxysilanes followed by functionalization and performing a Tamao–Fleming oxidation. Additionally, the presence of a silicon-fluorine _gauche_ effect is present with support from theory, NMR analysis, and a crystal structure.__
+This work was presented at the 2023 ACS conference in indianapolis. The work shows the discovery of the fluorination of epoxysilanes followed by functionalization and performing a Tamao–Fleming oxidation. Additionally, the presence of a silicon-fluorine _gauche_ effect is present with support from theory, NMR analysis, and a crystal structure.
 
 ## Poster
 <object data="{{ site.url }}{{ site.baseurl }}/new poster conf.pdf" width="1000" height="1000" type='application/pdf'></object>
