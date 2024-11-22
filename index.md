@@ -37,7 +37,7 @@ MS, Organic Chemistry <br>
 ### Northern Arizona University (NAU)							2016-2021
 Bachelor of Science in Chemistry <br>
 Bachelor of Science in Biology <br>
-•	Achieved the Nancy & Henry Wettaw Organic Chemistry Award in 2020. <br>
+•	Nancy & Henry Wettaw Organic Chemistry Award, 2020. <br>
 
 ### Curtin University									2016-2018
 Studied Abroad in Western Australia, from July 2018 to December 2018. <br>
