@@ -14,7 +14,6 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "(other)"
 
 intro: 
   - excerpt: "some info here"   
