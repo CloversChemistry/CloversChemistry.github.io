@@ -30,18 +30,18 @@ My CV can be found at the bottom of this page.
 My name is Alexie Clover, and I am currently a PD chemist at LGC Axolabs in the North Bay Area. where I currently work on the synthesis, purification, and analysis of oligonucleotides. Through my job I work on both client projects and internal projects. My bakcground is in organic chemistry and specifically organosilane chemistry where I attained my MS from Western Washington University. 
 
 ## Education
-# Western Washington University (WWU)						2021-2023
-Master of Science, Organic Chemistry
-•	Thesis: New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions
-•	Teaching and Learning Certificate
+### Western Washington University (WWU)						2021-2023
+Master of Science, Organic Chemistry <br>
+•	Thesis: New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions <br>
+•	Teaching and Learning Certificate <br>
 
-# Northern Arizona University (NAU)							2016-2021
-Bachelor of Science in Chemistry
-Bachelor of Science in Biology
-•	Achieved the Nancy & Henry Wettaw Organic Chemistry Award in 2020.
+### Northern Arizona University (NAU)							2016-2021
+Bachelor of Science in Chemistry <br>
+Bachelor of Science in Biology <br>
+•	Achieved the Nancy & Henry Wettaw Organic Chemistry Award in 2020. <br>
 
-# Curtin University									2016-2018
-Studied Abroad in Western Australia, from July 2018 to December 2018 
+### Curtin University									2016-2018
+Studied Abroad in Western Australia, from July 2018 to December 2018. <br>
 
 ## CV
 <object data="{{ site.url }}{{ site.baseurl }}/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
