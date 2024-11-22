@@ -30,4 +30,4 @@ With the recent discovery of an iodine mediated rearrangement of diallylsilanes,
 <object data="{{ site.url }}{{ site.baseurl }}/Thesis Presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br><br>
-[Research Home](/research/)
+[Research Home](/research_new/)
