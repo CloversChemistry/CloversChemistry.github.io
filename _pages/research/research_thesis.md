@@ -26,5 +26,8 @@ With the recent discovery of an iodine mediated rearrangement of diallylsilanes,
 ## Thesis
 <object data="{{ site.url }}{{ site.baseurl }}/New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addi.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+## Power Point
+<object data="{{ site.url }}{{ site.baseurl }}/Thesis Presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 <br><br>
 [Research Home](/research/)
