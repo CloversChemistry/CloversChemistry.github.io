@@ -30,4 +30,4 @@ https://pubs.acs.org/doi/10.1021/acs.joc.3c02163
 
 
 <br><br>
-[Research Home](/research_new/)
+[Research Home](/graduate_research/)
