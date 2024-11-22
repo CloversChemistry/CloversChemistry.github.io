@@ -32,7 +32,7 @@ My name is Alexie Clover, and I am currently a PD chemist at LGC Axolabs in the 
 ## Education
 ### Western Washington University (WWU)						2021-2023
 Master of Science, Organic Chemistry <br>
-•	Thesis: New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions <br>
+•	Thesis: _New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions_ <br>
 •	Teaching and Learning Certificate <br>
 
 ### Northern Arizona University (NAU)							2016-2021
@@ -42,6 +42,9 @@ Bachelor of Science in Biology <br>
 
 ### Curtin University									2016-2018
 Studied Abroad in Western Australia, from July 2018 to December 2018. <br>
+
+## Publication
+Clover, A. W., Jones, A. P., Berger, R. F., Kaminsky, W., & O’Neil, Gregory. W. (2024). Regioselective fluorohydrin synthesis from allylsilanes and evidence for a silicon–fluorine gauche effect. The Journal of Organic Chemistry, 89(7), 4309–4318. https://doi.org/10.1021/acs.joc.3c02163
 
 ## CV
 <object data="{{ site.url }}{{ site.baseurl }}/CV.pdf" width="1000" height="1000" type='application/pdf'></object>
