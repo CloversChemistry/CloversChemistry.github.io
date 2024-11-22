@@ -1,5 +1,5 @@
 ---
-title: "Graduate Research and Projects"
+title: "Graduate Research (WWU)"
 layout: splash
 author_profile: false
 
