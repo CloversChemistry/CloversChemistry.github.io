@@ -27,4 +27,4 @@ This work was presented at the 2023 ACS conference in indianapolis. The work sho
 
 <br><br>
 
-[Research Home](/research_new/)
+[Research Home](/graduate_research/)
