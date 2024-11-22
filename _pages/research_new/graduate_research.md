@@ -58,9 +58,9 @@ feature_row3:
 The majority of my thesis work involved the conversion of allylsilanes into 3-silylfluorohydrins using a sequence of epoxidation and then treatment with HF TEA. This was followed by functionalion of the fluorohydrins and performing a Tamao-Fleming oxidation on the silicon to yield a more synthetically versatile material. Additionally, we discovered that a fluorine-silicon _gauche_ effect was present through performing computation studies, NMR analysis, and X-ray crystallography.
 
 ## Table of Contents
-- [ACS Poster](/research_new/#acs-poster) <br> 
-- [Research Paper](/research_new/#research-paper) <br>
-- [My Thesis](/research_new/#my-thesis) <br> 
+- [ACS Poster](/research_poster/#acs-poster) <br> 
+- [Research Paper](/research_paper/#research-paper) <br>
+- [My Thesis](/research_thesis/#my-thesis) <br> 
 
 
 ## ACS Poster 
