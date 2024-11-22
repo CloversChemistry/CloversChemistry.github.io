@@ -22,7 +22,7 @@ intro:
 ---
 
 ## Description
-My work focuses on the synthesis and purification of therapeutic oligonucleotides. I specialize on solid support projects involving both CPG and polystyrene, conjugation experiments, along with working on client projects. 
+My work focuses on the synthesis, purification, and analysis of therapeutic oligonucleotides. I specialize on solid support projects involving both CPG and polystyrene, conjugation experiments, along with working on client projects. 
 
 ## Posters
 “Optimization of Reaction Conditions for Oligo-peptide Conjugation Reactions” Poster ADC World Conference 2024 <br>
