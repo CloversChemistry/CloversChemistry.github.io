@@ -27,8 +27,7 @@ My CV can be found at the bottom of this page.
 
 
 ## About Me
-My name is Alexie Clover, and I am currently a PD chemist at LGC Axolabs in the North Bay Area. where I currently work on the synthesis, purification, and analysis of oligonucleotides. Through my job I work on both client projects and internal projects. My bakcground is in organic chemistry and specifically organosilane chemistry where I attained my MS from Western Washington University. 
-
+My name is Alexie Clover, and I am currently a PD chemist at LGC Axolabs in the North Bay Area. I grew up in sunny Arizona and after I graduated highschool I fled to the mountains of Flagstaff AZ where I went to NAU. I fell in love with organic chemistry my senior year and decided that I would continue my career somewhere without as much sunshine. I found myself in Bellingham Washinton getting my MS in chemistry. It was an adjustement to say the least going from AZ to WA, but I've grown fond of the rain. After my MS I landed somewhat in the goldilocks zone in California around the Bay.
 ## Education
 ### Western Washington University (WWU)						2021-2023
 MS, Organic Chemistry <br>
