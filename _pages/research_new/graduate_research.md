@@ -53,8 +53,6 @@ feature_row3:
 
     
 ---
-## Introduction
-This page details my graduate research and project experience at Western Washington University. Click on the relative buttons to learn more or 'Return to top' to return to the Table of Contents. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
 
 ## Research Summary
 The majority of my thesis work involved the conversion of allylsilanes into 3-silylfluorohydrins using a sequence of epoxidation and then treatment with HF TEA. This was followed by functionalion of the fluorohydrins and performing a Tamao-Fleming oxidation on the silicon to yield a more synthetically versatile material. Additionally, we discovered that a fluorine-silicon _gauche_ effect was present through performing computation studies, NMR analysis, and X-ray crystallography.
