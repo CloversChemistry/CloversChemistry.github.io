@@ -31,7 +31,7 @@ My name is Alexie Clover, and I am currently a PD chemist at LGC Axolabs in the 
 
 ## Education
 ### Western Washington University (WWU)						2021-2023
-Master of Science, Organic Chemistry <br>
+MS, Organic Chemistry <br>
 •	Thesis: _New Synthetic Methods Based on Silicon-Tethered Nucleophilic Addition Reactions_ <br>
 •	Teaching and Learning Certificate <br>
 
