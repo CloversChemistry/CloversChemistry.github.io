@@ -38,7 +38,7 @@ Bachelor of Science in Chemistry <br>
 Bachelor of Science in Biology <br>
 •	Nancy & Henry Wettaw Organic Chemistry Award, 2020. <br>
 
-### Curtin University									2016-2018
+### Curtin University									            2018
 Studied Abroad in Western Australia, from July 2018 to December 2018. <br>
 
 ## Publication
