@@ -18,8 +18,6 @@ header:
 #excerpt: "About me, about this website, as well as my resume and cv"
 
 ---
-This webiste is still under construction. I appologize for any inconvenience.
-
 ## Website Goal
 This website was created as an interactive and visual way to view parts of my academic and professional career. This highlights projects and skills I learned through my journey that may have otherwise been left behind. This website will be updated as I continue my scientific career.
  
